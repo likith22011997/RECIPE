@@ -1,0 +1,31 @@
+.example-spacer {
+  flex: auto;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td,
+th {
+  width: 25%;
+}
+
+mat-form-field {
+  background-color: lightcoral;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1248px;
+
+  mat-form-field {
+    width: 100%;
+  }
+}
